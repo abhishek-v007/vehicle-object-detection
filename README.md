@@ -20,9 +20,9 @@ Ensure you have the following installed:
 
 # Setup
 
-1. Clone the repository:
+1. Clone the repository: https://github.com/abhishek-v007/vehicle-object-detection.git
 
-git clone https://github.com/your-username/vehicle-object-detection.git
+git clone 
 
 cd vehicle-object-detection
 
